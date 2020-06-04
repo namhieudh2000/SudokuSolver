@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="solve">solve</string>
+    <string name="prompt">This Sudoku problem </string>
+    <string name="solved">is solvable</string>
+    <string name="unsolved">is unsolvable</string>
+    <string name="invalidInput">Invalid Input!</string>
+    <string name="invalidBoard">This is not a Sudoku board, check if there is any row or column or
+    square containing the same number</string>
+    <string name="again">Solve another sudoku</string>
+</resources>
